@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover reliable, professional car rental services tailored to your needs.",
+        "title": "Seamless Car Rentals for Every Journey"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Discover reliable, professional car rental services tailored to your needs.",
+        "title": "Seamless Car Rentals for Every Journey"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover reliable, professional car rental services tailored to your needs.",
+        "title": "Seamless Car Rentals for Every Journey"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover reliable, professional car rental services tailored to your needs.",
+        "title": "Seamless Car Rentals for Every Journey"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover reliable, professional car rental services tailored to your needs.",
+        "title": "Seamless Car Rentals for Every Journey"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover reliable, professional car rental services tailored to your needs.",
+        "title": "Seamless Car Rentals for Every Journey"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover reliable, professional car rental services tailored to your needs.",
+        "title": "Seamless Car Rentals for Every Journey"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover reliable, professional car rental services tailored to your needs.",
+        "title": "Seamless Car Rentals for Every Journey"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Seamless Car Rentals for Every Journey",
+  "subtitle": "Discover reliable, professional car rental services tailored to your needs."
+}
